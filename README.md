@@ -37,4 +37,3 @@ Showing you the error of your ways.
 Ung, E. (2024). Analysis Of Bad Employees. https://github.com/ericung/AnalysisOfBadEmployees/tree/main
 
 Ung, E. (2024). Inferrable Languages. https://github.com/ericung/InferrableLanguages
-Ung, E. (2024). Inferrable Languages. https://github.com/ericung/InferrableLanguages
