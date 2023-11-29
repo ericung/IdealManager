@@ -34,6 +34,8 @@ Showing you the error of your ways.
 
 # References
 
+Fishbane, P. M., Gasiorowicz, S., & Thornton, S. T. (1996). Physics for scientists and engineers (3rd ed.). Prentice Hall.
+
 Ung, E. (2024). Analysis Of Bad Employees. https://github.com/ericung/AnalysisOfBadEmployees/tree/main
 
 Ung, E. (2024). Inferrable Languages. https://github.com/ericung/InferrableLanguages
