@@ -39,5 +39,3 @@ Fishbane, P. M., Gasiorowicz, S., & Thornton, S. T. (1996). Physics for scientis
 Maxwell, J. C. (2007). The 21 irrefutable laws of leadership. Thomas Nelson.
 
 Ung, E. (2024). Analysis Of Bad Employees. https://github.com/ericung/AnalysisOfBadEmployees/tree/main
-
-Ung, E. (2024). Inferrable Languages. https://github.com/ericung/InferrableLanguages
